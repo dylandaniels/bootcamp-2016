@@ -1,3 +1,8 @@
 ols/
 __pycache__
 build/
+.ipynb_checkpoints/
+*.ipynb
+commands.txt
+ordlstsq.egg-info/
+.cache/
